@@ -1,0 +1,12 @@
+void f2()
+{
+	int x,y;
+	x=y*z;
+	
+}
+
+void main()
+{
+
+	f2();
+}
